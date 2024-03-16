@@ -79,3 +79,5 @@
 1710606131134:runMain pekko.ActorStep2
 1710606767677:compile
 1710606769180:runMain pekko.ActorStep2
+1710607864455:compile
+1710607867505:Test / compile
