@@ -81,3 +81,13 @@
 1710606769180:runMain pekko.ActorStep2
 1710607864455:compile
 1710607867505:Test / compile
+1710608101213:compile
+1710608461626:runMain pekkoIot.IotApp
+1710609483635:reload
+1710609487269:compile
+1710609492015:runMain pekkoIot.IotApp
+1710609507245:runMain pekko.ActorStep2
+1710609744081:compile
+1710609748055:reload
+1710609750018:compile
+1710609753588:runMain pekko.ActorStep2

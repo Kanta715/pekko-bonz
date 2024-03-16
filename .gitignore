@@ -14,7 +14,8 @@ yarn-error.log
 
 # IDEs and editors
 .idea/
-.project
+project/
+target/
 .classpath
 .c9/
 *.launch
