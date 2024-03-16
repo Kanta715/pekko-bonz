@@ -1,0 +1,1 @@
+{"name":"sbt","version":"1.9.9","bspVersion":"2.1.0-M1","languages":["scala"],"argv":["/Users/kanta.inoue/.sdkman/candidates/java/8.0.392-amzn/jre/bin/java","-Xms100m","-Xmx100m","-classpath","/Users/kanta.inoue/.sdkman/candidates/sbt/1.5.5/bin/sbt-launch.jar","-Dsbt.script=/Users/kanta.inoue/.sdkman/candidates/sbt/current/bin/sbt","xsbt.boot.Boot","-bsp"]}
